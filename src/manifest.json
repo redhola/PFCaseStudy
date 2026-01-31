@@ -3,9 +3,41 @@
     {
       "name": "game",
       "assets": [
+        { "name": "bg", "srcs": "assets/background.png" },
+        { "name": "tray", "srcs": "assets/tray.png" },
+        { "name": "shuffle", "srcs": "assets/shuffle.png" },
+        { "name": "playBtn", "srcs": "assets/play.png" },
         {
-          "name": "logo",
-          "srcs": "assets/core/logo_white.png"
+          "name": "background",
+          "srcs": "assets/background.png"
+        },
+        {
+          "name": "circle",
+          "srcs": "assets/circle.png"
+        },
+        {
+          "name": "circle_in",
+          "srcs": "assets/circle-in.png"
+        },
+        {
+          "name": "rect",
+          "srcs": "assets/rect.png"
+        },
+        {
+          "name": "shuffle",
+          "srcs": "assets/suffle.png"
+        },
+        {
+          "name": "hand",
+          "srcs": "assets/hand.png"
+        },
+        {
+          "name": "tick",
+          "srcs": "assets/tick.png"
+        },
+        {
+          "name": "bubble",
+          "srcs": "assets/bubble-white.png"
         }
       ]
     },
@@ -13,8 +45,8 @@
       "name": "fonts",
       "assets": [
         {
-          "name": "font",
-          "srcs": "assets//Sniglet-Regular.ttf"
+          "name": "Sniglet",
+          "srcs": "assets/Sniglet-Regular.ttf"
         }
       ]
     }
